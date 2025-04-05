@@ -3,6 +3,12 @@
 
 ![github_fondo](https://github.com/user-attachments/assets/de14d372-47ed-4d5c-bd11-ecb53bc24200)
 
+
+Sobre mi 
+- Java Developer 💻
+- Android Developer 📱
+- Cibersecurity 🔒
+
 <!--
 **Jonathang/Jonathang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
