@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hola! soy Jonathan 👋
+
+![github_fondo](https://github.com/user-attachments/assets/8fbadfd6-ac46-45bf-9a10-6d3ff27f666b)
 
 <!--
 **Jonathang/Jonathang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
