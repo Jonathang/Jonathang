@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4591481" style='border:none;'></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/ragnarok3.png" alt="Your Image Badge" />
